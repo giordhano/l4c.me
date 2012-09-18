@@ -49,7 +49,7 @@
 				<div id="footer">
 					<ul>
 						<li id="claborg">
-							<a href="http://www.cristalab.org/" target="_blank" rel="nofollow">Cristalab.org</a>
+							<a href="http://www.cristalab.org/" target="_blank" rel="nofollow">Cristalab.org Genial</a>
 						</li>
 						<li id="cristalab">
 							<a href="http://cristalab.com/" target="_blank" rel="nofollow">Cristalab</a>
